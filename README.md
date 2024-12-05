@@ -1,5 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14281719.svg)](https://doi.org/10.5281/zenodo.14281719)
 # Association of AI-Predicted Milk Yield Residuals to Behavioral Patterns and Transition Success in Multiparous Dairy Cows
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14281719.svg)](https://doi.org/10.5281/zenodo.14281719)
 
 ## Interpretive summary
 
