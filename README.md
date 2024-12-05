@@ -6,7 +6,7 @@ The transition period in dairy cows, spanning six weeks around calving, is a cri
 
 ## Link to models
 
-[Eating time](https://github.com/Bovi-analytics/Salamone-et-al-2025/blob/main/EatingTime_DaysInMilk.ipynb)
-[Standing time](https://github.com/Bovi-analytics/Salamone-et-al-2025/blob/main/StandingTime_DaysInMilk.ipynb)
-[Rumination time](https://github.com/Bovi-analytics/Salamone-et-al-2025/blob/main/RuminatingTime_DaysInMilk.ipynb)
-[Lying time](https://github.com/Bovi-analytics/Salamone-et-al-2025/blob/main/LyingTime_DaysInMilk.ipynb)
+* [Eating time](https://github.com/Bovi-analytics/Salamone-et-al-2025/blob/main/EatingTime_DaysInMilk.ipynb)
+* [Standing time](https://github.com/Bovi-analytics/Salamone-et-al-2025/blob/main/StandingTime_DaysInMilk.ipynb)
+* [Rumination time](https://github.com/Bovi-analytics/Salamone-et-al-2025/blob/main/RuminatingTime_DaysInMilk.ipynb)
+* [Lying time](https://github.com/Bovi-analytics/Salamone-et-al-2025/blob/main/LyingTime_DaysInMilk.ipynb)
