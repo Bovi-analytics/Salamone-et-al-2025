@@ -1,4 +1,4 @@
-# Salamone-et-al-2025
+# Association of AI-Predicted Milk Yield Residuals to Behavioral Patterns and Transition Success in Multiparous Dairy Cows
 
 ## Interpretive summary
 
